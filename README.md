@@ -26,3 +26,4 @@ Proin tincidunt justo odio, tincidunt eleifend orci rutrum aliquam. Integer orna
 Nunc rhoncus convallis convallis. Pellentesque consequat vel est id cursus. Nullam vitae risus ut justo gravida mattis. Maecenas eu dolor interdum, tempus magna ac, mattis elit. Morbi quis dui quis lectus suscipit euismod sed id nunc. Cras pretium enim non elit ornare, vitae ultricies turpis vestibulum. Suspendisse auctor posuere justo. Quisque sed leo ipsum. Curabitur vitae pharetra velit. Nunc nec commodo elit, quis vestibulum metus. Sed non mi sit amet urna pretium hendrerit vel eu eros. Donec pretium porttitor fermentum. Nam nec urna congue, varius risus id, luctus tortor. Nullam eget odio non orci vulputate tempus.
 
 # Google Accounts
+* [Article on Google account IDs (GAIA IDs)](https://sector035.nl/articles/keeping-a-grip-on-google-ids)
