@@ -3,7 +3,7 @@
 * [Google Accounts](#google-accounts)
 * [Other OSINT Collections](#other-soint-collections)
 * [Phone Numbers](#phone-numbers)
-* [Paid Tools(#paid-tools)
+* [Paid Tools](#paid-tools)
 
 # Google Accounts
 * [Article on Google account IDs (GAIA IDs)](https://sector035.nl/articles/keeping-a-grip-on-google-ids)
