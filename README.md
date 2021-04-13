@@ -1,6 +1,6 @@
-# Spinch Header
+# Table of Contents
 
-[Spinch](#spinch)
+* [Google Accounts](#google-accounts)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra sagittis cursus. Sed tincidunt elit ex, et tincidunt nisi malesuada eget. Aenean nisl leo, pellentesque sed ante vitae, volutpat imperdiet orci. Maecenas lobortis suscipit odio eu congue. Fusce vel ex suscipit, auctor orci ac, cursus nisi. Nullam mattis malesuada tortor nec tristique. Suspendisse eget massa fringilla, convallis enim nec, suscipit erat. Sed vitae magna sit amet sem feugiat fermentum. In tempus nec justo ac posuere.
 
@@ -25,4 +25,4 @@ Proin tincidunt justo odio, tincidunt eleifend orci rutrum aliquam. Integer orna
 
 Nunc rhoncus convallis convallis. Pellentesque consequat vel est id cursus. Nullam vitae risus ut justo gravida mattis. Maecenas eu dolor interdum, tempus magna ac, mattis elit. Morbi quis dui quis lectus suscipit euismod sed id nunc. Cras pretium enim non elit ornare, vitae ultricies turpis vestibulum. Suspendisse auctor posuere justo. Quisque sed leo ipsum. Curabitur vitae pharetra velit. Nunc nec commodo elit, quis vestibulum metus. Sed non mi sit amet urna pretium hendrerit vel eu eros. Donec pretium porttitor fermentum. Nam nec urna congue, varius risus id, luctus tortor. Nullam eget odio non orci vulputate tempus.
 
-# Spinch
+# Google Accounts
