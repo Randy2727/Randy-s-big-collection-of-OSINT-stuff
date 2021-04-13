@@ -1,7 +1,3 @@
-- [Spinch](#spinch-header)
-- [Second](#second-header)
-- [Third](#third-header)
-
 # Spinch Header
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra sagittis cursus. Sed tincidunt elit ex, et tincidunt nisi malesuada eget. Aenean nisl leo, pellentesque sed ante vitae, volutpat imperdiet orci. Maecenas lobortis suscipit odio eu congue. Fusce vel ex suscipit, auctor orci ac, cursus nisi. Nullam mattis malesuada tortor nec tristique. Suspendisse eget massa fringilla, convallis enim nec, suscipit erat. Sed vitae magna sit amet sem feugiat fermentum. In tempus nec justo ac posuere.
