@@ -10,7 +10,7 @@
 
 # Other OSINT Collections
 * [Attack surface charts + techniques](https://github.com/sinwindie/OSINT)
-* OSINT framework(https://osintframework.com/)
+* [OSINT framework](https://osintframework.com/)
 
 # Phone Numbers
 * [Spy dialer](https://www.spydialer.com/) - Provides name associated with phone number
