@@ -20,6 +20,6 @@
 
 # Paid and Restricted Tools
 
-## Breaches
+# Breaches
 * [Dehashed](https://dehashed.com/) - People and breach search engine - requires subscription to view result details
 
