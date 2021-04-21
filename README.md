@@ -3,7 +3,9 @@
 * [Google Accounts](#google-accounts)
 * [Other OSINT Collections](#other-soint-collections)
 * [Phone Numbers](#phone-numbers)
-* [Paid Tools](#paid-tools)
+* 
+* [Paid / Restricted Tools](#paid-/-restricted-tools)
+** [Test] (#test)
 
 # Google Accounts
 * [Article on Google account IDs (GAIA IDs)](https://sector035.nl/articles/keeping-a-grip-on-google-ids)
@@ -15,5 +17,9 @@
 # Phone Numbers
 * [Spy dialer](https://www.spydialer.com/) - Provides name associated with phone number
 
-# Paid Tools
+# Paid / Restricted Tools
+
+
 * [Dehashed](https://dehashed.com/) - People and breach search engine - requires subscription to view result details
+
+**[Test]
