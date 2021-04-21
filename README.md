@@ -1,12 +1,11 @@
 # Table of Contents
 
-* [Google Accounts](#google-accounts)
-* [Other OSINT Collections](#other-osint-collections)
-* [Phone Numbers](#phone-numbers)
+* [Google Accounts](#google-accounts);
+* [Other OSINT Collections](#other-osint-collections);
+* [Phone Numbers](#phone-numbers);
 
-
-* [Paid and Restricted Tools](#paid-and-restricted-tools)
-  * Breaches(#breaches)
+* [Paid and Restricted Tools](#paid-and-restricted-tools);
+  * [Breaches](#breaches);
 
 # Google Accounts
 * [Article on Google account IDs (GAIA IDs)](https://sector035.nl/articles/keeping-a-grip-on-google-ids)
