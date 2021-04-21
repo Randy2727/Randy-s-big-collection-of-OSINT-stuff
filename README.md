@@ -1,10 +1,9 @@
 # Table of Contents
 
-* [Google Accounts](#google-accounts);
-* [Other OSINT Collections](#other-osint-collections);
-* [Phone Numbers](#phone-numbers);
-
-* [Paid and Restricted Tools](#paid-and-restricted-tools);
+* [Google Accounts](#google-accounts)
+* [Other OSINT Collections](#other-osint-collections)
+* [Phone Numbers](#phone-numbers)
+* [Paid and Restricted Tools](#paid-and-restricted-tools)
   * [Breaches](#breaches)
   * [Property Records](#property-records)
 
