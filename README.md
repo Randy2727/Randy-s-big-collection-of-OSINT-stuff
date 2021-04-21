@@ -3,7 +3,8 @@
 * [Google Accounts](#google-accounts)
 * [Other OSINT Collections](#other-osint-collections)
 * [Phone Numbers](#phone-numbers)
-* 
+
+
 * [Paid and Restricted Tools](#paid-and-restricted-tools)
 
 
@@ -19,6 +20,6 @@
 
 # Paid and Restricted Tools
 
-
+## Breaches
 * [Dehashed](https://dehashed.com/) - People and breach search engine - requires subscription to view result details
 
