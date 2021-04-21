@@ -1,10 +1,10 @@
 # Table of Contents
 
 * [Google Accounts](#google-accounts)
-* [Other OSINT Collections](#other-soint-collections)
+* [Other OSINT Collections](#other-osint-collections)
 * [Phone Numbers](#phone-numbers)
 * 
-* [Paid / Restricted Tools](#paid-/-restricted-tools)
+* [Paid and Restricted Tools](#paid-and-restricted-tools)
 
 
 # Google Accounts
@@ -17,7 +17,7 @@
 # Phone Numbers
 * [Spy dialer](https://www.spydialer.com/) - Provides name associated with phone number
 
-# Paid / Restricted Tools
+# Paid and Restricted Tools
 
 
 * [Dehashed](https://dehashed.com/) - People and breach search engine - requires subscription to view result details
