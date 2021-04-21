@@ -6,7 +6,7 @@
 
 * [Paid and Restricted Tools](#paid-and-restricted-tools);
   * [Breaches](#breaches)
-  * [Property Records](#property-records]
+  * [Property Records](#property-records)
 
 # Google Accounts
 * [Article on Google account IDs (GAIA IDs)](https://sector035.nl/articles/keeping-a-grip-on-google-ids)
