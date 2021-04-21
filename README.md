@@ -19,8 +19,8 @@
 
 ## Paid and Restricted Tools
 
-### Breaches
+#### Breaches
 * [Dehashed](https://dehashed.com/) - People and breach search engine - requires subscription to view result details
 
-### Property Records
+#### Property Records
 * [Data Tree](https://web.datatree.com/) - Large database of property records - required paid account, prices are not listed, appears to be targeted at institutional customers
