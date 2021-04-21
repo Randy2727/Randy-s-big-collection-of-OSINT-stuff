@@ -17,7 +17,7 @@
 # Phone Numbers
 * [Spy dialer](https://www.spydialer.com/) - Provides name associated with phone number
 
-## Paid and Restricted Tools
+# Paid and Restricted Tools
 
 #### Breaches
 * [Dehashed](https://dehashed.com/) - People and breach search engine - requires subscription to view result details
