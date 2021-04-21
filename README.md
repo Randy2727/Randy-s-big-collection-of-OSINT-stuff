@@ -5,7 +5,7 @@
 * [Phone Numbers](#phone-numbers)
 * 
 * [Paid / Restricted Tools](#paid-/-restricted-tools)
-** [Test] (#test)
+
 
 # Google Accounts
 * [Article on Google account IDs (GAIA IDs)](https://sector035.nl/articles/keeping-a-grip-on-google-ids)
@@ -22,4 +22,3 @@
 
 * [Dehashed](https://dehashed.com/) - People and breach search engine - requires subscription to view result details
 
-**[Test]
