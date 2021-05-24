@@ -18,7 +18,7 @@
 * [Spy dialer](https://www.spydialer.com/) - Provides name associated with phone number
 
 # Skype
-* [Skype](https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html)
+* [Skype – A hidden OSINT goldmine](https://whitehatinspector.blogspot.com/2021/03/skype-hidden-osint-goldmine.html)
 
 # Paid and Restricted Tools
 
